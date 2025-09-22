@@ -1,0 +1,10 @@
+{
+  "provider": "example",
+  "region": "us-west-1",
+  "resources": [
+    {
+      "type": "virtual_machine",
+      "count": 2
+    }
+  ]
+}
